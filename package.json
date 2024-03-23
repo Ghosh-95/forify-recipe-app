@@ -1,0 +1,20 @@
+{
+  "name": "fokify",
+  "version": "1.0.0",
+  "description": "A recipe application (Vanilla JS)",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html"
+  },
+  "author": "Sushovan Ghosh",
+  "license": "ISC",
+  "dependencies": {
+    "core-js": "^3.33.2",
+    "fracty": "^1.0.11",
+    "parcel": "^2.10.3",
+    "regenerator-runtime": "^0.14.0"
+  },
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.10.3"
+  }
+}
